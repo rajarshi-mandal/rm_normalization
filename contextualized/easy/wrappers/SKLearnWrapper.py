@@ -1,4 +1,3 @@
-# TESTING
 """
 An sklearn-like wrapper for Contextualized models.
 """
